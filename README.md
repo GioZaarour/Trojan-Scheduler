@@ -1,4 +1,5 @@
 # Trojan Scheduler
+Trojan scheduler is an app designed to help USC students find the best GE courses based on their schedule availability, the desired GE category, and optimal professor ratings. This scrapes data from the USC web registration page and professor rating data from RateMyProfessor. 
 
 ## Establishing Database
 
